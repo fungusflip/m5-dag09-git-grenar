@@ -3,3 +3,5 @@
 Kafé Kardemumma
 Fiktivgatan 1, 111 11 Stockholm
 E-post: hej@kardemumma.example
+Telefon: 08-123 45 67
+Instagram: @kardemumma

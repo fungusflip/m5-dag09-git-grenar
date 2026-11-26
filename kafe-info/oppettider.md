@@ -1,5 +1,5 @@
 # Öppettider
 
 Vardagar: 07–18
-Helger: 09–16
-Röda dagar: stängt
+Helger: 10–18
+Röda dagar: stängt, utom julafton 10–14
